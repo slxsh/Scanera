@@ -1,4 +1,4 @@
-# Scanera Document Scanner App
+# Scanera - Document Scanner App
  React Native app to scan and organize documents
 ## To do
 * Perspective transformation crop using OpenCV
