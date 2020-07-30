@@ -1,2 +1,2 @@
-# Scanera
-Document Scanner Android App
+# scanera-document-scanner
+ React Native app to scan and organize documents
